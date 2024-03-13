@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Prayers-Timings/static/css/main.194ef746.css",
+    "main.js": "/Prayers-Timings/static/js/main.91d16c84.js",
+    "static/media/dhhr-prayer-mosque.png": "/Prayers-Timings/static/media/dhhr-prayer-mosque.d0a5d50489ca47979471.png",
+    "static/media/asr-prayer-mosque.png": "/Prayers-Timings/static/media/asr-prayer-mosque.b11894d08e1438c530fc.png",
+    "static/media/night-prayer-mosque.png": "/Prayers-Timings/static/media/night-prayer-mosque.18d6aa15cdb383a536e2.png",
+    "static/media/fajr-prayer.png": "/Prayers-Timings/static/media/fajr-prayer.e337d5e9acc2ccf947cb.png",
+    "static/media/sunset-prayer-mosque.png": "/Prayers-Timings/static/media/sunset-prayer-mosque.15f929361847ddf35df3.png",
+    "index.html": "/Prayers-Timings/index.html",
+    "main.194ef746.css.map": "/Prayers-Timings/static/css/main.194ef746.css.map",
+    "main.91d16c84.js.map": "/Prayers-Timings/static/js/main.91d16c84.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.194ef746.css",
+    "static/js/main.91d16c84.js"
+  ]
+}
