@@ -1,4 +1,4 @@
-## Prayer Times Web Application
+## Prayer Times Web Application <a href="https://mustafa-sayed-m.github.io/Prayers-Timings/">( Preview )</a>
 
 This web application is built using React and utilizes React Bootstrap and Bootstrap for styling. Additionally, it incorporates the AOS library for animations. The primary data source for prayer times is the Aladhan API.
 
