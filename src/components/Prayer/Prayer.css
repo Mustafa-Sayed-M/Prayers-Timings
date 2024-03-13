@@ -1,0 +1,27 @@
+.prayer-card {
+    width: calc(100% / 5 - 20px);
+}
+
+@media (max-width: 991px) {
+    .prayer-card {
+        width: calc(100% / 4 - 20px);
+    }
+}
+
+@media (max-width: 768px) {
+    .prayer-card {
+        width: calc(100% / 3 - 20px);
+    }
+}
+
+@media (max-width: 575px) {
+    .prayer-card {
+        width: calc(100% / 2 - 20px);
+    }
+}
+
+@media (max-width: 375px) {
+    .prayer-card {
+        width: 100%;
+    }
+}
